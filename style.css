@@ -10,12 +10,6 @@
     text-align: -webkit-center; 
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-
   .leftlinks {
 	position: relative;
 	bottom:12px;
@@ -34,7 +28,7 @@ ul {
 }
 
 footer {
-	position: absolute;
+	position: relative;
 	bottom:0px;
 	left:0px;
 	right:0px;
