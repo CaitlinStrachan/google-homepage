@@ -6,5 +6,6 @@
 }
 
 .centerSearch {
-    text-align: center; 
+    display: block;
+    text-align: -webkit-center; 
 }
