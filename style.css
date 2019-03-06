@@ -16,6 +16,9 @@
 .centerSearch {
     display: block;
     text-align: -webkit-center;
+}
+
+.searchbar {
     border-radius:  20px;
 }
 
