@@ -15,7 +15,8 @@
 
 .centerSearch {
     display: block;
-    text-align: -webkit-center; 
+    text-align: -webkit-center;
+    border-radius:  20px;
 }
 
   .leftlinks {
